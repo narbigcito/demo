@@ -12,5 +12,5 @@
     "name": "typicode"
   },
   
-  "burguer": true
+  "burguer": {"foo":true}
 }
